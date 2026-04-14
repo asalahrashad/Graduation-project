@@ -4,10 +4,10 @@
 "Refresh Your Heart" is a medical web platform designed to assist in heart disease detection and severity classification using Machine Learning models. It also facilitates doctor consultations and appointment bookings.
 
 ## Features
--   **Heart Disease Detection**: Binary classification (Disease / No Disease).
--   **Severity Classification**: Assessment of disease severity (Early / Moderate / Critical).
--   **Doctor Consultation**: Browse doctors and book appointments.
--   **Health Tips**: Curated advice for maintaining heart health.
+-   **Heart Disease Detection**:  Binary classification (Disease / No Disease).
+-   **Severity Classification**:  Assessment of disease severity (Early / Moderate / Critical).
+-   **Doctor Consultation**:  Browse doctors and book appointments.
+-   **Health Tips**:  Curated advice for maintaining heart health.
 
 ## Tech Stack
 -   **Framework**: React (TypeScript)
